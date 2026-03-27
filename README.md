@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISOBaba</h1>
-<h3 align="center">A passionate Game&Web developer from Turiye</h3>
+<h3 align="center">A passionate Game&Web developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isobaba00&label=Profile%20views&color=0e75b6&style=flat" alt="isobaba00" /> </p>
 
